@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente estou trabalhando em: **[Nome do Projeto ou Empresa]**
-- 🌱 Estudando: **[Tecnologias ou tópicos atuais]**
+- 🔭 Atualmente estou Estudando e buscando uma oportunidade no mercado!
+- 🌱 Estudando: **[Desenvolvimento de sistemas]**
 - 🤝 Sempre aberto a colaborar em projetos open source ou freelas.
 - 💬 Me pergunte sobre: `tecnologias`, `projetos`, `carreira` ou qualquer coisa!
 - 📫 Como me encontrar: **[seu e-mail, LinkedIn, portfólio, etc.]**
@@ -26,7 +26,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> Adicione ou remova conforme suas tecnologias favoritas!
+
 
 ---
 
@@ -41,7 +41,7 @@
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/matheus-soares-300777314/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/matheus-soares-300777314/))
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=firefox&logoColor=white)](https://seuportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
 
