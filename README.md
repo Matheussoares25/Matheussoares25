@@ -2,7 +2,7 @@
 <h1 align="center">Olá! 👋 Dev Bem vindo ao meu git!</h1>
 
 <p align="center">
-  💻 Desenvolvedor | 🚀 Apaixonado por tecnologia | 🌍 [Sua localização, se quiser]
+  💻 Desenvolvedor | 🚀 Apaixonado por tecnologia | 🌍 [São paulo || Brasil]
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)]([linkedin.com/in/matheus-soares-300777314/](https://www.linkedin.com/in/matheus-soares-300777314))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-300777314))
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=firefox&logoColor=white)](https://seuportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
 
