@@ -10,7 +10,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🔭 Atualmente estou Estudando e Buscando oportunidades de Mostrar meus conhecimentos
-- 🌱 Estudando: **[Desenvolvimento de sistemas]**
+- 🌱 Estudando: **[Analise e desenvolvimento de sistemas]**
 - ⏳  Experiencia: Experiencias no Mercado de trabalho Me fizeram ter grande conhecimento em **Javascript**,**PHP**, **C#** são meu forte 💪
 - 🤝 Sempre aberto a colaborar em projetos open source ou freelas.
 - 💬 Me pergunte sobre: `tecnologias`, `projetos`, `carreira` ou qualquer coisa!
