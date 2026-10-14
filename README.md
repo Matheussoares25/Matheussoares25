@@ -38,11 +38,11 @@ Sou desenvolvedor **Full Stack** com experiência prática em sistemas **web e d
 
 | Categoria | Tecnologias |
 |:---|:---|
-| **Linguagens** | <img src="https://skillicons.dev/icons?i=cs,php,js,ts,html,css&perline=6" alt="Linguagens" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs&perline=6" alt="Backend" /> <br/> `ASP.NET Core` · `Entity Framework` · `APIs RESTful` · `JWT` · `Windows Forms` |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,ts,html,css&perline=6" alt="Frontend" /> |
-| **Banco de dados** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb&perline=6" alt="Bancos de dados" /> |
-| **Ferramentas e infra** | <img src="https://skillicons.dev/icons?i=git,github,vs,vscode,linux&perline=6" alt="Ferramentas" /> <br/> `Windows Server` · `Redes` · `Hardware` |
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=cs,php,js,ts,html,css&perline=6" height="30" alt="Linguagens" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs&perline=2" height="30" alt="Backend" /> <br/> <sub>ASP.NET Core · Entity Framework · APIs RESTful · JWT · Windows Forms</sub> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite&perline=2" height="30" alt="Frontend" /> <br/> <sub>React.js · Vite · TypeScript · HTML5 · CSS3</sub> |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb&perline=3" height="30" alt="Bancos de dados" /> |
+| **Ferramentas e infra** | <img src="https://skillicons.dev/icons?i=git,github,vs,vscode,linux&perline=5" height="30" alt="Ferramentas" /> <br/> <sub>Windows Server · Redes · Hardware</sub> |
 
 ---
 
@@ -75,10 +75,9 @@ Sou desenvolvedor **Full Stack** com experiência prática em sistemas **web e d
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheussoares25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussoares25&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Matheussoares25&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=Matheussoares25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussoares25&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top languages" />
+  <img height="125" src="https://streak-stats.demolab.com/?user=Matheussoares25&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
