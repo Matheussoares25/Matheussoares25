@@ -13,7 +13,6 @@
 
   <br />
 
-  <!-- Cards de estatísticas do GitHub (gerados automaticamente com o seu username) -->
   <p>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheussoares25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussoares25&layout=compact&theme=tokyonight&hide=html,css" />
@@ -22,14 +21,16 @@
 
 ---
 
-### ⚡ Sobre Mim
+### ⚡ Sobre Mim & Visão Técnica
 
-Desenvolvedor **Full Stack** focado no desenvolvimento de sistemas corporativos escaláveis e automação de processos. 
+Desenvolvedor **Full Stack** apaixonado pela criação de sistemas corporativos escaláveis, arquiteturas seguras e automação de processos.
 
-* 🔭 **Atuação Atual:** Auxiliar de TI (Dev & Inovação) na **Masterpumps**, desenvolvendo aplicações desktop em **C# (.NET)** e integrando APIs RESTful com ganho de eficiência operacional.
-* 🎓 **Formação:** Graduando em **Análise e Desenvolvimento de Sistemas** (Universidade Metodista) e **Técnico em Dev. de Sistemas** (ETEC JK).
-* 💡 **Especialidade:** Criação de APIs RESTful com JWT, desenvolvimento SPA em **React.js + Vite** e manipulação de bancos de dados relacionais (**PostgreSQL / MySQL**).
-* 🚀 **Busca Ativa:** Aberto a conexões, projetos Full Stack / Backend e colaborações em código aberto.
+* 💻 **Domínio Backend:** Construção e consumo de **APIs RESTful** performáticas com autenticação e segurança via **JWT**, desenvolvendo regras de negócio robustas e arquiteturas modulares em **C# (.NET)** e **PHP**.
+* 🎨 **Experiência Frontend:** Criação de aplicações web dinâmicas e reativas no formato SPA utilizando **React.js + Vite**, focando em arquitetura de componentes reutilizáveis, gerenciamento de estado e ótima experiência de uso.
+* 🗄️ **Bancos de Dados & Performance:** Modelagem relacional e otimização de consultas SQL complexas trabalhando com **PostgreSQL**, **MySQL** e **MariaDB**.
+* ⚙️ **Soluções & Automação:** Experiência no desenvolvimento de softwares de automação desktop, integração de serviços externos/financeiros em tempo real e suporte/infraestrutura de TI.
+* 🎓 **Formação Contínua:** Graduando em **Análise e Desenvolvimento de Sistemas** (Universidade Metodista) e formado como **Técnico em Dev. de Sistemas** (ETEC JK)[cite: 1].
+* 🚀 **Objetivos:** Focado em evolução técnica contínua, boas práticas de código (Clean Code, SOLID) e em colaborar com projetos de alto impacto.
 
 ---
 
@@ -60,7 +61,7 @@ Desenvolvedor **Full Stack** focado no desenvolvimento de sistemas corporativos 
 </details>
 
 <details open>
-<summary><b>Databases & DevOps / Infrastructure</b></summary>
+<summary><b>Databases & Infrastructure</b></summary>
 <br />
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -72,12 +73,11 @@ Desenvolvedor **Full Stack** focado no desenvolvimento de sistemas corporativos 
 
 ---
 
-### 🔥 Destaques dos Meus Repositórios
+### 💡 Áreas de Interesse & Foco de Aprendizado
 
-| Projeto | Descrição | Stack Principal |
-| :--- | :--- | :--- |
-| 🚀 [**PTE**](https://github.com/Matheussoares25/PTE) | Plataforma SaaS de Treinamento Empresarial para PMEs com Dashboard interativo. | ASP.NET Core, JWT, MySQL, JS |
-| 🎫 [**Chamados React**](https://github.com/Matheussoares25/chamados-react) | Sistema SPA Full Stack para gestão e fluxo de chamados de suporte técnico. | React.js, Vite, API REST, PostgreSQL |
+- 🏗️ **Arquitetura de Software:** Padrões de projeto, Clean Architecture e microserviços.
+- ⚡ **Performance de APIs:** Otimização de queries, estratégias de cache e resiliência de rotas no backend.
+- 🧪 **Qualidade de Código:** Testes automatizados e integração contínua (CI/CD).
 
 ---
 
