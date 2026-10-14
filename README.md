@@ -86,7 +86,7 @@ Sou desenvolvedor **Full Stack** com experiência prática em sistemas **web e d
 
 - 💼 LinkedIn: [linkedin.com/in/matheus-soares-300777314](https://linkedin.com/in/matheus-soares-300777314)
 - ✉️ Email: [devrmatheussoares@gmail.com](mailto:devrmatheussoares@gmail.com)
-- 📍 Diadema, SP, Brasil
+- 📍 SP, Brasil
 
 <details>
 <summary><b>🇺🇸 English summary</b></summary>
