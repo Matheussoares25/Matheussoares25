@@ -1,53 +1,86 @@
-## Hello World 👋
+<div align="center">
+  <h1>Hey there, I'm Matheus Soares 👋</h1>
+  <p><b>Full Stack Developer | .NET & React Specialist</b></p>
 
-<h1 align="center">Olá! 👋 Sou o Matheus Soares, Bem-vindo ao meu GitHub!</h1>
+  <p>
+    <a href="https://linkedin.com/in/matheus-soares-300777314">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:devrmatheussoares@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-<p align="center">
-  💻 Desenvolvedor Full Stack | 🚀 Apaixonado por tecnologia e automação | 🌍 Diadema, São Paulo - Brasil
+  <br />
+
+  <!-- Cards de estatísticas do GitHub (gerados automaticamente com o seu username) -->
+  <p>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheussoares25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussoares25&layout=compact&theme=tokyonight&hide=html,css" />
+  </p>
+</div>
+
+---
+
+### ⚡ Sobre Mim
+
+Desenvolvedor **Full Stack** focado no desenvolvimento de sistemas corporativos escaláveis e automação de processos. 
+
+* 🔭 **Atuação Atual:** Auxiliar de TI (Dev & Inovação) na **Masterpumps**, desenvolvendo aplicações desktop em **C# (.NET)** e integrando APIs RESTful com ganho de eficiência operacional.
+* 🎓 **Formação:** Graduando em **Análise e Desenvolvimento de Sistemas** (Universidade Metodista) e **Técnico em Dev. de Sistemas** (ETEC JK).
+* 💡 **Especialidade:** Criação de APIs RESTful com JWT, desenvolvimento SPA em **React.js + Vite** e manipulação de bancos de dados relacionais (**PostgreSQL / MySQL**).
+* 🚀 **Busca Ativa:** Aberto a conexões, projetos Full Stack / Backend e colaborações em código aberto.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+</details>
+
+<details open>
+<summary><b>Frameworks, Libs & Runtime</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Databases & DevOps / Infrastructure</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+</details>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🔥 Destaques dos Meus Repositórios
 
-- 🔭 **O que faço atualmente:** Atuo no desenvolvimento de soluções desktop/web e suporte em TI na **Masterpumps**, automatizando processos em C# e integrando APIs RESTful em tempo real.
-- 🌱 **Estudando:** Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Metodista de São Paulo e formado como **Técnico em Desenvolvimento de Sistemas** pela ETEC Juscelino Kubitschek.
-- ⏳ **Experiência:** Experiências no mercado de trabalho me deram forte domínio em **C# (.NET)**, **React.js**, **PHP**, **JavaScript/TypeScript** e bancos de dados como **PostgreSQL** e **MySQL**.
-- 🤝 **Aberto a:** Colaborar em projetos open source, freelas e oportunidades de desenvolvimento Full Stack / Backend.
-- 💬 **Me pergunte sobre:** `C#`, `.NET`, `React.js`, `APIs RESTful`, `PHP` ou qualquer outra tecnologia!
-- 📫 **Como me encontrar:** [devrmatheussoares@gmail.com](mailto:devrmatheussoares@gmail.com) | [LinkedIn](https://linkedin.com/in/matheus-soares-300777314)
+| Projeto | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| 🚀 [**PTE**](https://github.com/Matheussoares25/PTE) | Plataforma SaaS de Treinamento Empresarial para PMEs com Dashboard interativo. | ASP.NET Core, JWT, MySQL, JS |
+| 🎫 [**Chamados React**](https://github.com/Matheussoares25/chamados-react) | Sistema SPA Full Stack para gestão e fluxo de chamados de suporte técnico. | React.js, Vite, API REST, PostgreSQL |
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-#### **Languages & Frameworks**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### **Databases & Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/matheus-soares-300777314)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Matheussoares25)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devrmatheussoares@gmail.com)
-
----
-
-✨ Obrigado por visitar meu perfil!
+<div align="center">
+  <sub>Sinta-se à vontade para explorar meus repositórios ou me enviar uma mensagem! 🚀</sub>
+</div>
